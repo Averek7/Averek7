@@ -1,6 +1,5 @@
 - Junior Developer at IIIT Surat
 - Second Year Btech in CSE Dept 
-- 
 - 👋 Hi, I’m @Averek7 
 - 👀 I’m interested in Full Stack Web Development MERN 
 - 🌱 I’m currently learning ...Web Development(Full Stack)
