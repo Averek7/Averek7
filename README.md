@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Web Development & DSA
 - 💞️ I’m looking to collaborate on ... MERN Projects
 - 📫 How to reach me ... 
-- Insta handle : - https://www.instagram.com/_im_the_avi_/ 
+- Insta handle : - https://www.instagram.com/_im_the_avi_/   Or   https://www.instagram.com/a.v.e.r.ek/
 - LinkedIN handle : - https://www.linkedin.com/in/avanish-singh-aa1a57200
 
 <!---
