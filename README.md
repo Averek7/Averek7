@@ -1,6 +1,6 @@
 ## ***Avanish Singh***
-- >*Junior Developer | GDSC IIIT Surat8
-- >8Pursuing B.tech from Indian Institute of Information Technology, Surat8 
+- >*Junior Developer | GDSC IIIT Surat*
+- >*Pursuing B.tech from Indian Institute of Information Technology, Surat*
 
 
 - 👋 Hi,🙋‍I'm @Averek7 
