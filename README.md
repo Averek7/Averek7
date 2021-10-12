@@ -1,4 +1,9 @@
-- 👋 Hi, I’m Avanish Singh 🙋‍ @Averek7 
+## ***Avanish Singh**
+>###Junior Develop, GDSC IIIT Surat
+>###Pursuing B.tech from Indian Institute of Information Technology, Surat 
+
+
+- 👋 Hi,🙋‍I'm @Averek7 
 - 👀 I’m interested in 'MERN Full Stack Web Development'
 - 🌱 I’m currently learning ... Web Dev & DSA
 - 💞️ I’m looking to collaborate on ... MERN Projects 
