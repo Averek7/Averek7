@@ -1,5 +1,5 @@
-***Avanish Singh**
->Junior Develop, GDSC IIIT Surat
+***Avanish Singh***
+>Junior Developer | GDSC IIIT Surat
 >Pursuing B.tech from Indian Institute of Information Technology, Surat 
 
 
