@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning ... ### ***Web Development with MERN***
 - 💞️ I’m looking to collaborate on ... ### ***MERN based projects***
 - 📫 How to reach me ...  
-  - Insta handle : - - https://www.instagram.com/_im_the_avi_/  
-                     - https://www.instagram.com/a.v.e.r.e.k/
+  - Insta handle : - 
+        - https://www.instagram.com/_im_the_avi_/  
+        - https://www.instagram.com/a.v.e.r.e.k/
   - Linkedin handle : - https://www.linkedin.com/in/avanish-singh-aa1a57200
