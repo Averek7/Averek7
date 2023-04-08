@@ -12,6 +12,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=averek7&label=Profile%20views&color=0e75b6&style=flat" alt="averek7" /> </p>
 
+- 👨‍💻 All of my projects are available at [https://averek7.netlify.app](https://averek7.netlify.app)
+
+- 📫 How to reach me **singhavanish2003@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1NLg0gIdNfrbBbIPcaKLijfx-vrcY53e1/view?usp=sharing](https://drive.google.com/file/d/1NLg0gIdNfrbBbIPcaKLijfx-vrcY53e1/view?usp=sharing)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=averek7" alt="averek7" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
