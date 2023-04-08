@@ -4,8 +4,8 @@
 
 
 - 👋 Hi,🙋‍I'm @Averek7 
-- 👀 I’m interested in ***Full Stack Web Development with MERN & MENN & Blockchain Development***
-- 🌱 I’m currently learning ... ***Machine Learning & Artificial Intelligence***
+- 👀 I’m interested in ***Full Stack Web Development with MEReactN & MENextN***
+- 🌱 I’m currently learning ... ***Blockchain Development, Machine Learning & Artificial Intelligence***
 - 💞️ I’m looking to collaborate on ... ***MERN & MENN along with Web3.0 based projects***
 
 <h3 align="center">Web3.0 Full Stack Developer || Blockchain Developer || ML & AI Ethusiast</h3>
