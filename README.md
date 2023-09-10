@@ -5,10 +5,10 @@
 
 - 👋 Hi,🙋‍I'm @Averek7 
 - 👀 I’m interested in ***Full Stack Web Development with MEReactN & MENextN***
-- 🌱 I’m currently learning ... ***Blockchain Development, Machine Learning & Artificial Intelligence***
+- 🌱 I’m currently learning ... ***Projects of Hyperledger & Machine Learning***
 - 💞️ I’m looking to collaborate on ... ***MERN & MENN along with Web3.0 based projects***
 
-<h3 align="center">Web3.0 Full Stack Developer || Blockchain Developer || ML & AI Ethusiast</h3>
+<h3 align="center">Backend Devloper ||Web3.0 Full Stack & Blockchain Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=averek7&label=Profile%20views&color=0e75b6&style=flat" alt="averek7" /> </p>
 
