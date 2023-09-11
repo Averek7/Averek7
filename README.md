@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **singhavanish2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NLg0gIdNfrbBbIPcaKLijfx-vrcY53e1/view?usp=sharing](https://drive.google.com/file/d/1NLg0gIdNfrbBbIPcaKLijfx-vrcY53e1/view?usp=sharing)
+- 📄 Know about my experiences [Me](https://drive.google.com/file/d/1rL-pWqm4_mU0uUSw5vB2HeyXc9o_ulFc/view?usp=sharing)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=averek7" alt="averek7" /></a> </p>
 
