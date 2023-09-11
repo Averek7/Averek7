@@ -17,7 +17,7 @@
 - 📫 How to reach me **singhavanish2003@gmail.com**
 
 - 📄 Know about my experiences [Me](https://drive.google.com/file/d/1rL-pWqm4_mU0uUSw5vB2HeyXc9o_ulFc/view?usp=sharing)
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/averek7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="averek7" height="30" width="40" /></a>
