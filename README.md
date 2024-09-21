@@ -1,14 +1,12 @@
 ## ***Avanish Singh***
-- >*Web2.0 & Web3.0 Developer | GDSC IIIT Surat*
-- >*Pursuing B.tech from Indian Institute of Information Technology, Surat*
+- >*Software Developer (MERN & Blockchain)*
+- >*Graduated in B.tech from Indian Institute of Information Technology, Surat*
 
 
 - 👋 Hi,🙋‍I'm @Averek7 
-- 👀 I’m interested in ***Full Stack Web Development with MEReactN & MENextN***
-- 🌱 I’m currently learning ... ***Projects of Hyperledger & Machine Learning***
-- 💞️ I’m looking to collaborate on ... ***MERN & MENN along with Web3.0 based projects***
-
-<h3 align="center">Backend Developer | Web3.0 Full Stack & Blockchain Developer | Into ML </h3>
+- 👀 I’m interested in ***Full Stack Web Development with MENextN***
+- 🌱 I’m currently learning ... ***Projects of Rust & Go Programming***
+- 💞️ I’m looking to collaborate on ... ***Ethereum/Solana based based projects***
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=averek7&label=Profile%20views&color=0e75b6&style=flat" alt="averek7" /> </p>
 
