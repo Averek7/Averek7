@@ -1,20 +1,57 @@
-## ***Avanish Singh***
-- >*Software Developer (MERN & Blockchain)*
-- >*Graduated in B.tech from Indian Institute of Information Technology, Surat*
+## 👋 Hi, I'm **Avanish Singh**  
+### **Software Developer — Blockchain | Web3**  
+*B.Tech, Computer Science — Indian Institute of Information Technology, Surat*
 
+---
 
-- 👋 Hi,🙋‍I'm @Averek7 
-- 👀 I’m interested in ***Full Stack Web Development with MENextN***
-- 🌱 I’m currently learning ... ***Projects of Rust & Go Programming***
-- 💞️ I’m looking to collaborate on ... ***Ethereum/Solana based based projects***
+### 🚀 About Me
+- 🔭 I’m a **Full Stack & Blockchain Developer** working with MERN, Next.js, Solidity & Rust  
+- 👀 Interested in **decentralized systems, on-chain automation, and scalable Web3 products**  
+- 🌱 Currently learning and building projects in **Rust**, **Go**, and **Solana (Anchor)**  
+- 🤝 Open to collaborating on **Ethereum/Solana-based dApps, smart contracts, and protocol-level development**  
+- 🧩 Passionate about clean architecture, security-first engineering, and developer tooling
+
+---
+
+### 🛠️ Tech Stack & Skills
+- **Languages:** C++, Go, Python, JavaScript/TypeScript, Rust, Solidity  
+- **Frontend:** React.js, Next.js, Redux, TailwindCSS  
+- **Backend:** Node.js, Express.js, Django, Flask  
+- **Blockchain:** Solidity, Hardhat, Foundry, Ethers.js, Web3.js, Anchor  
+- **Tools:** Git, Linux, Docker, Postman, GraphQL, Vercel  
+- **Databases:** MongoDB, PostgreSQL, MySQL, Firebase  
+
+---
+
+### 🧪 Web3 & Blockchain Expertise
+- Smart contract development on **Ethereum (EVM)**  
+- Building with **Solana + Anchor (Rust)**  
+- Experience with **Chainlink Functions, CCIP, Automation**  
+- Tokenomics, staking systems, oracles, and secure contract patterns  
+- Working with **OpenZeppelin**, **Governor + Timelock**, and **DeFi integrations**
+
+---
+
+### 🏆 Achievements
+- 🥇 **1st place** — IIT Roorkee Blockathon  
+- 🥈 **2nd place** — NIT Bhopal E-Summit Hackathon  
+- 🏅 Sponsor prizes at **EthIndia22**  
+- 👨‍🏫 Mentored **25+ teams** at DevHeat IIIT Surat  
+- 📘 Solved **1000+ DSA problems** on GFG & LeetCode
+
+---
+
+### 📫 Connect With Me
+- 📧 Email: **singhavanish2003@gmail.com**  
+- 🔗 GitHub: **[@Averek7](https://github.com/Averek7)**  
+- 💼 LinkedIn: **[@Avanish Singh](https://www.linkedin.com/in/avanishsingh7)**
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=averek7&label=Profile%20views&color=0e75b6&style=flat" alt="averek7" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://averek7.netlify.app](https://averek7.netlify.app)
+⭐️ *Feel free to explore my repositories and reach out if you'd like to collaborate on Web3 or full-stack projects!*  
 
-- 📫 How to reach me **singhavanish2003@gmail.com**
-
-- 📄 Know about my experiences [Me](https://drive.google.com/file/d/1rL-pWqm4_mU0uUSw5vB2HeyXc9o_ulFc/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
