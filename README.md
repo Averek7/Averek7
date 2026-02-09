@@ -1,74 +1,102 @@
-## 👋 Hi, I'm **Avanish Singh**  
-### **Software Developer — Blockchain | Web3**  
-*B.Tech, Computer Science — Indian Institute of Information Technology, Surat*
+# Hi, I'm Avanish Singh 👋
+
+**Blockchain Engineer • Smart Contracts • Web3 Security • Full-Stack Developer**
+
+I build secure, production-ready Web3 systems — from smart contracts and cross-chain infrastructure to full-stack dApps. I enjoy working on problems where security, decentralization, and real-world usability intersect.
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m a **Full Stack & Blockchain Developer** working with MERN, Next.js, Solidity & Rust  
-- 👀 Interested in **decentralized systems, on-chain automation, and scalable Web3 products**  
-- 🌱 Currently learning and building projects in **Rust**, **Go**, and **Solana (Anchor)**  
-- 🤝 Open to collaborating on **Ethereum/Solana-based dApps, smart contracts, and protocol-level development**  
-- 🧩 Passionate about clean architecture, security-first engineering, and developer tooling
+## 🚀 What I'm Working On
+
+- 🔐 **Blockchain security & risk infrastructure** — fraud detection, wallet risk scoring, oracle-based verification
+- 🌉 **Cross-chain systems** — EVM ↔ non-EVM, oracle pipelines, CCIP-style messaging
+- 🧠 **Full-stack Web3 apps** — React, Node.js, and smart contract backends
+- 🏗️ **Protocol-level design** — governance, validators, staking, registries
+
+## 🌱 Currently Learning & Exploring
+
+- 🤖 **AI Agents & Autonomous Systems** — exploring agent-based architectures, tooling, and how AI agents can augment Web3 security, monitoring, and automation
+- 🦀 **Rust-based Blockchain Development** — building and experimenting with Rust projects, focusing on performance, safety, and non-EVM ecosystems
 
 ---
 
-### 🛠️ Tech Stack & Skills
-- **Languages:** C++, Go, Python, JavaScript/TypeScript, Rust, Solidity  
-- **Frontend:** React.js, Next.js, Redux, TailwindCSS  
-- **Backend:** Node.js, Express.js, Django, Flask  
-- **Blockchain:** Solidity, Hardhat, Foundry, Ethers.js, Web3.js, Anchor  
-- **Tools:** Git, Linux, Docker, Postman, GraphQL, Vercel  
-- **Databases:** MongoDB, PostgreSQL, MySQL, Firebase  
+## 🧑‍💻 Experience Snapshot
+
+### Smart Contract Engineer — SentinelAI
+- Built a plug-and-play security MVP to classify and mitigate high-risk / fraudulent wallet activity
+- Designed multi-layer oracle verification flows for trust-minimized security decisions
+- Integrated Chainlink Functions, Automation & CCIP for cross-chain intelligence delivery
+
+### Blockchain Engineer — Merkle Labs
+- Developed DeFi & gamified on-chain systems (staking, raffles, casinos, rewards)
+- Owned Solidity contracts, tokenomics logic, gas optimization, and real-time integrations
+- Shipped 5+ time-sensitive client features improving engagement & retention
 
 ---
 
-### 🧪 Web3 & Blockchain Expertise
-- Smart contract development on **Ethereum (EVM)**  
-- Building with **Solana + Anchor (Rust)**  
-- Experience with **Chainlink Functions, CCIP, Automation**  
-- Tokenomics, staking systems, oracles, and secure contract patterns  
-- Working with **OpenZeppelin**, **Governor + Timelock**, and **DeFi integrations**
+### 🛠️ Tech Stack
+
+**Blockchain & Web3**  
+`Solidity` `EVM` `Rust` `Anchor` `OpenZeppelin` `Hardhat` `Foundry` `ethers.js` `web3.js` `wagmi` `Chainlink` `Oracles` `CCIP`
+
+**Frontend**  
+`React.js` `Next.js` `Redux` `TypeScript` `TailwindCSS` `HTML/CSS`
+
+**Backend & Infrastructure**  
+`Node.js` `Express.js` `Django` `Flask` `Go`
+
+**Databases**  
+`PostgreSQL` `MySQL` `MongoDB` `Firebase`
+
+**Tools & DevOps**  
+`Docker` `Git/GitHub` `Linux` `Postman` `GraphQL` `Vercel` `CI/CD`
+
+**Languages**  
+`C++` `Python` `JavaScript/TypeScript` `Rust` `Solidity` `Go`
 
 ---
 
-### 🏆 Achievements
-- 🥇 **1st place** — IIT Roorkee Blockathon  
-- 🥈 **2nd place** — NIT Bhopal E-Summit Hackathon  
-- 🏅 Sponsor prizes at **EthIndia22**  
-- 👨‍🏫 Mentored **25+ teams** at DevHeat IIIT Surat  
-- 📘 Solved **1000+ DSA problems** on GFG & LeetCode
+## 📦 Featured Projects
+
+### [DVal.io](https://cognizance-bit-bots.vercel.app/) — Decentralized Supply Chain & Value Management
+- End-to-end traceability from manufacturing to end users
+- Smart contracts for lifecycle tracking, ownership, and warranties
+- **Stack:** Next.js, Solidity, Node.js, SQL, AWS
+
+### [ZaPP](https://ethermions-eth-india22.vercel.app/) — NFT-Collateralized Loans
+- NFT-backed lending with interest and fee mechanics
+- DeFi MVP built in 48 hours with a global team
+- **Stack:** Next.js, Web3.js, MongoDB, Solidity
 
 ---
 
-### 📫 Connect With Me
-- 📧 Email: **singhavanish2003@gmail.com**  
-- 🔗 GitHub: **[@Averek7](https://github.com/Averek7)**  
-- 💼 LinkedIn: **[@Avanish Singh](https://www.linkedin.com/in/avanishsingh7)**
+## 🏆 Highlights
+
+- 🥇 **1st place** — IIT Roorkee Blockathon
+- 🥈 **2nd place** — NIT Bhopal E-Summit Hackathon
+- 🏅 **Sponsor prizes** — ETHIndia (Valist, ENS)
+- 👨‍🏫 **Mentored 25+ teams** at DevHeat, IIIT Surat
+- 🧩 **Solved 1000+ DSA problems** (LeetCode & GFG)
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=averek7&label=Profile%20views&color=0e75b6&style=flat" alt="averek7" /> </p>
+## 🤝 Open To
 
-⭐️ *Feel free to explore my repositories and reach out if you'd like to collaborate on Web3 or full-stack projects!*  
+- Web3 security & protocol engineering roles
+- Cross-chain / infra-level blockchain projects
+- Collaborations, audits, and early-stage MVP builds
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/averek7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="averek7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/avanish-singh-aa1a57200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avanish-singh-aa1a57200/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21591304/avanish-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21591304/avanish-singh" height="30" width="40" /></a>
-<a href="https://instagram.com/_im__the_avi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_im__the_avi_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/averek7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/averek7/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/singhavanish2003/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/singhavanish2003/practice" height="30" width="40" /></a>
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avanishsingh7)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhavanish2003@gmail.com)
+
+**If you're building something interesting in Web3, security, or decentralized infra, I'd love to collaborate 🚀**
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=averek7&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=averek7&show_icons=true&locale=en&layout=compact" alt="averek7" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=averek7&show_icons=true&locale=en" alt="averek7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=averek7&" alt="averek7" /></p>
-
