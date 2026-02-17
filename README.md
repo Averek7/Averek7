@@ -136,10 +136,8 @@ I build secure, production-ready Web3 systems — from smart contracts and cross
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" align="center" valign="middle">
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=Averek7&theme=highcontrast" alt="GitHub Streak" />
-      </a>
+    <td width="100%" align="center" valign="middle">
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Averek7&theme=dracula" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
