@@ -99,13 +99,8 @@ I build secure, production-ready Web3 systems — from smart contracts and cross
 **If you're building something interesting in Web3, security, or decentralized infra, I'd love to collaborate 🚀**
 
 <h3 align="left">🔥  My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=averek7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Averek7&theme=darcula&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app)
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=averek7&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
