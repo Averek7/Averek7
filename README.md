@@ -99,8 +99,55 @@ I build secure, production-ready Web3 systems — from smart contracts and cross
 **If you're building something interesting in Web3, security, or decentralized infra, I'd love to collaborate 🚀**
 
 <h3 align="left">🔥  My Stats :</h3>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Averek7&theme=darcula&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app)
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img
+        src="https://github-readme-stats-plum-one-24.vercel.app/api/top-langs/?username=Averek7&hide=html,css&layout=compact&theme=highcontrast&cache_seconds=1800"
+        alt="Top Languages"
+        width="100%"
+      />
+    </td>
+    <td width="50%" valign="top">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Averek7&theme=highcontrast"
+        alt="Productive Time"
+        width="100%"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img
+        src="https://github-readme-stats-plum-one-24.vercel.app/api?username=Averek7&show_icons=true&count_private=true&theme=highcontrast&cache_seconds=1800"
+        alt="GitHub Stats"
+        width="100%"
+      />
+    </td>
+    <td width="50%" valign="top">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Averek7&theme=highcontrast"
+        alt="Profile Details"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=Averek7&theme=highcontrast" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<a href="https://github.com/Averek7/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Averek7&theme=high-contrast" alt="GitHub Activity Graph" width="100%"/>
+</a>
+
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=averek7&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
